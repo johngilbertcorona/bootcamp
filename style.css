@@ -1,0 +1,42 @@
+.navbar .navbar-expand-lg .sticky-top{
+    background: #89cff0 !important;
+}
+.banner {
+    min-height: 100vh;
+    margin-right: 50px;
+    }
+    nav{
+    width: 1920px;
+}
+
+
+footer{
+    bottom: 0;
+    background-color: #000000;
+    padding: 20px 20px 20px 20px;
+    color: white;
+    text-align: center;
+}
+
+/* about Us*/
+.container .about {
+    min-height: 100vh;
+    margin-bottom: 50px;
+    background-color: #faf0be !important;
+}
+
+
+h3{
+    text-align: center;
+    text-transform: uppercase;
+}
+.row {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.row .col{
+    width: 50%;
+}
+.row .col img {
+    width:90%;
+}
